@@ -2,7 +2,7 @@
 
 Employee management application using SQL, Sequelize, Node, and Inquirer.
 
-## Application Functionality:
+## Application Features:
 
  * Creating departments, roles, and employees.
  * Viewing departments, roles, and employees.
