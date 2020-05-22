@@ -1,0 +1,52 @@
+[
+	{
+		"title": " Network Administrator",
+		"salary": 55000,
+		"DepartmentId": 6
+	},
+	{
+		"title": "Support",
+		"salary": 45000,
+		"DepartmentId": 1
+	},
+	{
+		"title": " Help Desk",
+		"salary": 30000,
+		"DepartmentId": 1
+	},
+	{
+		"title": "Data Analyst",
+		"salary": 100000,
+		"DepartmentId": 7
+	},
+	{
+		"title": "Programmer",
+		"salary": 60000,
+		"DepartmentId": 6
+	},
+	{
+		"title": "Software Tester",
+		"salary": 50000,
+		"DepartmentId": 2
+	},
+	{
+		"title": "Developer",
+		"salary": 55000,
+		"DepartmentId": 3
+	},
+	{
+		"title": " QA",
+		"salary": 120000,
+		"DepartmentId": 7
+	},
+	{
+		"title": "Architect",
+		"salary": 200000,
+		"DepartmentId": 10
+	},
+	{
+		"title": "Project Manager",
+		"salary": 250000,
+		"DepartmentId": 2
+	}
+]

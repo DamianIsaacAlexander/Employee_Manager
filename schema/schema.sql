@@ -1,0 +1,5 @@
+DROP DATABASE IF EXISTS db;
+
+CREATE database db;
+
+USE db;
