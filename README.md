@@ -8,7 +8,7 @@ Employee management application using SQL, Sequelize, Node, and Inquirer.
  * Viewing departments, roles, and employees.
  * Updating employee roles.
 
-![app demo](https://i.gyazo.com/2ade67c0219b6370c2bdac34b78642ec.mp4)
+![app demo](https://i.gyazo.com/02467de781a0ebac7aedff9c5540f2e1.gif)
 
 ## Getting Started
 
